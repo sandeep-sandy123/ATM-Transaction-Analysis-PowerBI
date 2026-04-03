@@ -1,4 +1,3 @@
-https://github.com/sandeep-sandy123/ATM-Transaction-Analysis-PowerBI/blob/main/Screenshot%202026-03-08%20110213.png
 Cost Analysis (ATM Cost and Maintenance)
 This section provides a breakdown of ATM maintenance costs. The costs are categorized and visualized using pie charts for the selected month (August). The categories include:
 
