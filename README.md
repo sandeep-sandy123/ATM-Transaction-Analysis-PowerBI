@@ -23,4 +23,4 @@ transaction volume, revenue, uptime by location
 ## Files
 - atm_transaction_analysis.pbit — [Power BI file](https://github.com/sandeep-sandy123/ATM-Transaction-Analysis-PowerBI/blob/main/aatm_transaction_analysis.pbit)
 - BOB_Source.xlsx — [source data](https://github.com/sandeep-sandy123/ATM-Transaction-Analysis-PowerBI/blob/main/BOB_Source.xlsx)
-- Columns Names.md — data dictionary
+- Columns Names.md — [data dictionary](https://github.com/sandeep-sandy123/ATM-Transaction-Analysis-PowerBI/blob/main/Columns%20Names.md)
