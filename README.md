@@ -1,43 +1,26 @@
-📊 ATM Transaction Behavior Analysis
+# ATM Transaction Analysis
 
-1. 🔍 Problem Statement
+## Business Question
+When do customers use ATMs most, and which
+locations need better service availability?
 
-The bank lacked visibility into customer transaction patterns, peak usage times, and ATM performance across locations
+## Tools Used
+Power BI | Excel
 
-2. 🎯 Objective
+## Dataset
+Bank of Baroda ATM transaction data —
+transaction volume, revenue, uptime by location
 
-To analyze ATM transaction data and identify usage trends to improve service availability and operational efficiency.
+## Key Findings
+- [Open your dashboard and add peak hour here]
+- [Add top performing state/location here]
+- [Add revenue or transaction volume number here]
 
-3. 🛠 Tools Used
+## Dashboard
+![Overview](atm_dashboard_main.png)
+![Detail](atm_dashboard_detail.png)
 
-Power BI
-
-Excel
-
-ChatGPT (for query support and analysis guidance)
-
-4. 📈 Key KPIs
-
-Transaction Volume
-
-Peak Usage Hours
-
-Location-wise Performance
-
-5. 📊 Key Insights
-
-Identified peak transaction hours with highest customer activity
-
-Detected high-usage ATM locations requiring better maintenance
-
-Observed transaction patterns across different time periods
-
-6. 💡 Business Recommendations
-
-Increase cash availability during peak hours
-
-Improve maintenance in high-traffic locations
-
-Optimize ATM placement strategy
-
-Daily/Monthly Trends
+## Files
+- atm_transaction_analysis.pbit — Power BI file
+- BOB_Source.xlsx — source data
+- Columns Names.md — data dictionary
