@@ -12,9 +12,9 @@ Bank of Baroda ATM transaction data —
 transaction volume, revenue, uptime by location
 
 ## Key Findings
-- [Peak Transaction Period: The dashboard shows that August recorded one of the highest transaction volumes with ~178.89M transactions, indicating peak ATM usage during this period]
-- [Top Performing Region: Assam generated the highest ATM revenue among the analyzed regions, making it the most profitable location in the network]
-- [Revenue & Transaction Performance: The ATM network handled ~178.89M average transactions while maintaining a Gross Profit of 59.6%, showing strong operational efficiency despite 296M maintenance costs]
+- Peak Transaction Activity: ATM usage peaked in August, reaching approximately 178.89M transactions, indicating a significant surge in customer demand during that period.
+- Top Performing Region: Assam emerged as the highest revenue-generating region, suggesting stronger ATM utilization and higher transaction activity compared to other states.
+- High Profitability with Stable Operations: Despite 296M operational and maintenance costs, the ATM network maintained a 59.6% gross profit margin and 91.9% uptime, demonstrating efficient infrastructure management and strong financial performance.
 
 ## Dashboard
 ![Overview](atm_dashboard_main.png)
